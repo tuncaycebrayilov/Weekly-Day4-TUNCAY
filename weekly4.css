@@ -1,0 +1,131 @@
+.background{
+    height: 800px;
+    width: 100%;
+    background-image: linear-gradient(red,purple,blue);
+
+}
+.image{
+    height: 240px;
+    margin: 90px;
+}
+.starboy{
+    color: white;
+    margin-left: 50px;
+    
+}
+.text{
+    color: white;
+    text-align: justify;
+    margin-left: 50px;
+    width: 500px;
+}
+.home{
+    background-color: white;
+    border-radius: 12px;
+    padding: 15px;
+}
+.othersong{
+    background-color: white;
+    border-radius: 12px;
+    padding: 15px
+}
+.Favorite{
+    background-color: white;
+    border-radius: 12px;
+    padding: 15px
+}
+.signup{
+    background-color: white;
+    border-radius: 12px;
+    padding: 15px
+}
+.signin{
+    background-color: white;
+    border-radius: 12px;
+    padding: 15px
+}
+.album1{
+    position: relative;
+    transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+}
+.album1:hover{
+    z-index:2;
+    -webkit-transform: scale(1.5);
+    -ms-transform: scale(1.5);  
+    -moz-transform: scale(1.5);
+    transform: scale(1.1);
+
+}
+.album2{
+    position: relative;
+    transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+}
+.album2:hover{
+    z-index:2;
+    -webkit-transform: scale(1.5);
+    -ms-transform: scale(1.5);  
+    -moz-transform: scale(1.5);
+    transform: scale(1.1);
+}
+.album3{
+    position: relative;
+    transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+}
+.album3:hover{
+    z-index:2;
+    -webkit-transform: scale(1.5);
+    -ms-transform: scale(1.5);  
+    -moz-transform: scale(1.5);
+    transform: scale(1.1);
+}
+.album4{
+    position: relative;
+    transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+}
+.album4:hover{
+    z-index:2;
+    -webkit-transform: scale(1.5);
+    -ms-transform: scale(1.5);  
+    -moz-transform: scale(1.5);
+    transform: scale(1.1);
+}
+.album5{
+    position: relative;
+    transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+}
+.album5:hover{
+    z-index:2;
+    -webkit-transform: scale(1.5);
+    -ms-transform: scale(1.5);  
+    -moz-transform: scale(1.5);
+    transform: scale(1.1);
+}
+.starboyalbum{
+    position: relative;
+    transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+}
+.starboyalbum:hover{
+    z-index:2;
+    -webkit-transform: scale(1.5);
+    -ms-transform: scale(1.5);  
+    -moz-transform: scale(1.5);
+    transform: scale(1.2);
+}
